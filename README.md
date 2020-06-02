@@ -1,2 +1,2 @@
 # Gixi-Checker
-Are Gixi currently together?
+Is Gixi currently together?
