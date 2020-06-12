@@ -1,0 +1,30 @@
+body { 
+	font-family: Consolas, monaco, monospace;
+	text-align: center;
+	font-size: 25px;
+	background: #e7e7e7;
+}
+
+.center {
+	height: 75%;
+	width: 100%;
+	display: flex;
+	position: fixed;
+	align-items: center;
+	justify-content: center;
+}
+
+footer {
+	font-size: 25px;
+	bottom: 0%;
+	width: 99%;
+	position: absolute;
+	text-align: center;
+}
+
+.history{
+	font-size: 10px;
+	position:absolute;
+    bottom:0;
+    right:0;
+}
