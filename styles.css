@@ -21,3 +21,10 @@ footer {
 	position: absolute;
 	text-align: center;
 }
+
+.history{
+	font-size: 10px;
+	position:absolute;
+    bottom:0;
+    right:0;
+}
