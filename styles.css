@@ -9,7 +9,7 @@ body {
 	height: 75%;
 	width: 100%;
 	display: flex;
-	position: fixed;
+	position: absolute;
 	align-items: center;
 	justify-content: center;
 }
